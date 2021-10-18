@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RIUKHATAKE
 - 👀 I’m interested in ... all codification
 - 🌱 I’m currently learning ...  nothing
-- 💞️ I’m looking to collaborate on ... all
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... you don't know
 
 <!---
